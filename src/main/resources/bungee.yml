@@ -1,0 +1,4 @@
+name: NetworkMotd
+version: '${project.version}'
+main: com.ruserious99.networkmotd.NetworkMotd
+description: motd
